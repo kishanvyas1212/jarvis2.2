@@ -1,0 +1,82 @@
+[
+    [
+        "notepad",
+        "C:\\Windows\\System32\\notepad.exe"
+    ],
+    [
+        "calculator",
+        "C:\\Windows\\System32\\calc.exe"
+    ],
+    [
+        "command prompt",
+        "C:\\Windows\\System32\\cmd.exe"
+    ],
+    [
+        "Git",
+        "C:\\Program Files\\Git\\"
+    ],
+    [
+        "Microsoft Office Home and Student 2021 - en-gb",
+        "C:\\Program Files\\Microsoft Office"
+    ],
+    [
+        "Microsoft Office Home and Student 2021 - en-us",
+        "C:\\Program Files\\Microsoft Office"
+    ],
+    [
+        "Mozilla Firefox (x64 en-US)",
+        "C:\\Program Files\\Mozilla Firefox"
+    ],
+    [
+        "vlc media player",
+        "C:\\Program Files\\VideoLAN\\VLC"
+    ],
+    [
+        "firefox",
+        "C:\\Users\\91635\\AppData\\Local\\Microsoft\\WindowsApps\\firefox.exe"
+    ],
+    [
+        "apppium Server GUI",
+        "C:\\Users\\91635\\AppData\\Local\\Programs\\Appium Server GUI\\Appium Server GUI.exe"
+    ],
+    [
+        "eclipse IDE for Java Developers - 2023-03",
+        "C:\\Users\\91635\\eclipse\\java-2023-03\\eclipse\\eclipse.exe"
+    ],
+    [
+        "github",
+        "C:\\Users\\91635\\AppData\\Local\\GitHubDesktop\\GitHubDesktop.exe"
+    ],
+    [
+        "gta",
+        "C:\\Users\\91635\\Desktop\\games\\GTA Vice City\\gta-vc.exe"
+    ],
+    [
+        "Microsoft Edge",
+        "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe"
+    ],
+    [
+        "MinGW Installer",
+        "C:\\MinGW\\libexec\\mingw-get\\guimain.exe"
+    ],
+    [
+        "MongoDBCompass",
+        "C:\\Users\\91635\\AppData\\Local\\MongoDBCompass\\MongoDBCompass.exe"
+    ],
+    [
+        "chrome",
+        "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+    ],
+    [
+        "postman",
+        "C:\\Users\\91635\\AppData\\Local\\Postman\\Postman.exe"
+    ],
+    [
+        "This PC - Shortcut",
+        "C:\\Users\\91635\\Desktop\\This PC - Shortcut.lnk"
+    ],
+    [
+        "vs code",
+        "C:\\Users\\91635\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
+    ]
+]
